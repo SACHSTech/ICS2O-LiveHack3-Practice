@@ -32,8 +32,7 @@ You have been away traveling in the U.S and now you are ready to return home.  Y
 Write a program that allows you to enter the amount spent for each day of your trip, stopping once you enter -1.  Output the total days travelled and the total amount spent.  If a fee is owed based on the total amount spent and the number of days travelled output the fee.  Otherwise output “Phew, you do not have to pay a fee”.
 
 ### Sample Run 1:
-```text
-Sample Run 1:
+```
 Enter a daily spent amount (-1 to stop): 200
 Enter a daily spent amount (-1 to stop): 303
 Enter a daily spent amount (-1 to stop): 276
